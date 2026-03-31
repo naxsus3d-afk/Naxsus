@@ -1,1 +1,11 @@
-
+    "ad": "A",
+    "fiyat": "A",
+    "foto": "A",
+    "renkler": [
+        "A"
+    ],
+    "kalite": [
+        "Standart",
+        "Premium"
+    ]
+}
