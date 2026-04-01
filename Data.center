@@ -1,6 +1,6 @@
 [
   {
-    "ad": "Mini Saber",
+    "ad": "Mini Saber (TÜKENİYOR)",
     "fiyat": "450₺",
     "foto": "https://files.catbox.moe/e5fuea.jpeg",
     "renkler": ["Kırmızı", "Mavi", "Yeşil", "Sarı", "Beyaz", "Pembe", "Mor", "Kahverengi", "Siyah", "Gri"],
@@ -14,16 +14,16 @@
     "kalite": ["Standart"]
   },
   {
-    "ad": "Mini Falcon",
+    "ad": "Mini Falcon (YAKINDA)",
     "fiyat": "550₺",
     "foto": "https://files.catbox.moe/gdok1n.jpeg",
     "renkler": ["Kırmızı", "Mavi", "Yeşil", "Sarı", "Beyaz", "Pembe", "Mor", "Kahverengi", "Siyah", "Gri"],
     "kalite": ["Standart"]
   },
   {
-    "ad": "Mini Dummy",
-    "fiyat": "500₺",
-    "foto": "https://files.catbox.moe/wodkc2.jpeg",
+    "ad": "Heart",
+    "fiyat": "300₺",
+    "foto": "https://files.catbox.moe/uehyp7.jpeg",
     "renkler": ["Kırmızı", "Mavi", "Yeşil", "Sarı", "Beyaz", "Pembe", "Mor", "Kahverengi", "Siyah", "Gri"],
     "kalite": ["Standart"]
   },
