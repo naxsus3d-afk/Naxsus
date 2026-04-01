@@ -11,6 +11,7 @@
     "fiyat": "500₺",
     "foto": "https://files.catbox.moe/wodkc2.jpeg",
     "renkler": ["Kırmızı", "Mavi", "Yeşil", "Sarı", "Beyaz", "Pembe", "Mor", "Kahverengi", "Siyah", "Gri"],
+    "renkler": ["Kırmızı", "Mavi", "Yeşil", "Sarı", "Beyaz", "Pembe", "Mor", "Kahverengi", "Siyah", "Gri"],
     "kalite": ["Standart"]
   },
   {
