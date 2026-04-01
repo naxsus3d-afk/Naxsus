@@ -6,8 +6,8 @@
     "renkler": ["Kırmızı", "Mavi", "Yeşil", "Sarı", "Beyaz", "Pembe", "Mor", "Kahverengi", "Siyah", "Gri"],
     "kalite": ["Standart", "Premium"]
   }
-]
-[
+
+
   {
     "ad": "Mini Saber",
     "fiyat": "450₺",
@@ -15,8 +15,8 @@
     "renkler": ["Kırmızı", "Mavi", "Yeşil", "Sarı", "Beyaz", "Pembe", "Mor", "Kahverengi", "Siyah", "Gri"],
     "kalite": ["Standart", "Premium"]
   }
-]
-[
+
+
   {
     "ad": "Mini Saber",
     "fiyat": "450₺",
